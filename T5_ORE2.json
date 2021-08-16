@@ -1,0 +1,3789 @@
+[
+    {
+        "location": "Bridgewatch",
+        "item_id": "T4_ORE",
+        "quality": 1,
+        "data": [
+            {
+                "item_count": 4692,
+                "avg_price": 44,
+                "timestamp": "2021-08-09T19:00:00"
+            },
+            {
+                "item_count": 11921,
+                "avg_price": 45,
+                "timestamp": "2021-08-09T20:00:00"
+            },
+            {
+                "item_count": 37708,
+                "avg_price": 47,
+                "timestamp": "2021-08-09T21:00:00"
+            },
+            {
+                "item_count": 6929,
+                "avg_price": 46,
+                "timestamp": "2021-08-09T22:00:00"
+            },
+            {
+                "item_count": 4644,
+                "avg_price": 46,
+                "timestamp": "2021-08-09T23:00:00"
+            },
+            {
+                "item_count": 8713,
+                "avg_price": 45,
+                "timestamp": "2021-08-10T00:00:00"
+            },
+            {
+                "item_count": 2383,
+                "avg_price": 46,
+                "timestamp": "2021-08-10T01:00:00"
+            },
+            {
+                "item_count": 6094,
+                "avg_price": 46,
+                "timestamp": "2021-08-10T02:00:00"
+            },
+            {
+                "item_count": 9503,
+                "avg_price": 51,
+                "timestamp": "2021-08-10T03:00:00"
+            },
+            {
+                "item_count": 4064,
+                "avg_price": 48,
+                "timestamp": "2021-08-10T04:00:00"
+            },
+            {
+                "item_count": 3151,
+                "avg_price": 48,
+                "timestamp": "2021-08-10T05:00:00"
+            },
+            {
+                "item_count": 4245,
+                "avg_price": 48,
+                "timestamp": "2021-08-10T06:00:00"
+            },
+            {
+                "item_count": 3468,
+                "avg_price": 47,
+                "timestamp": "2021-08-10T07:00:00"
+            },
+            {
+                "item_count": 2520,
+                "avg_price": 47,
+                "timestamp": "2021-08-10T08:00:00"
+            },
+            {
+                "item_count": 4271,
+                "avg_price": 48,
+                "timestamp": "2021-08-10T09:00:00"
+            },
+            {
+                "item_count": 3661,
+                "avg_price": 48,
+                "timestamp": "2021-08-10T10:00:00"
+            },
+            {
+                "item_count": 4840,
+                "avg_price": 48,
+                "timestamp": "2021-08-10T11:00:00"
+            },
+            {
+                "item_count": 4045,
+                "avg_price": 47,
+                "timestamp": "2021-08-10T12:00:00"
+            },
+            {
+                "item_count": 15079,
+                "avg_price": 47,
+                "timestamp": "2021-08-10T13:00:00"
+            },
+            {
+                "item_count": 15910,
+                "avg_price": 45,
+                "timestamp": "2021-08-10T14:00:00"
+            },
+            {
+                "item_count": 11779,
+                "avg_price": 44,
+                "timestamp": "2021-08-10T15:00:00"
+            },
+            {
+                "item_count": 7255,
+                "avg_price": 46,
+                "timestamp": "2021-08-10T16:00:00"
+            },
+            {
+                "item_count": 3776,
+                "avg_price": 47,
+                "timestamp": "2021-08-10T17:00:00"
+            },
+            {
+                "item_count": 22097,
+                "avg_price": 46,
+                "timestamp": "2021-08-10T18:00:00"
+            },
+            {
+                "item_count": 5211,
+                "avg_price": 44,
+                "timestamp": "2021-08-10T19:00:00"
+            },
+            {
+                "item_count": 15354,
+                "avg_price": 46,
+                "timestamp": "2021-08-10T20:00:00"
+            },
+            {
+                "item_count": 4600,
+                "avg_price": 47,
+                "timestamp": "2021-08-10T21:00:00"
+            },
+            {
+                "item_count": 7941,
+                "avg_price": 46,
+                "timestamp": "2021-08-10T22:00:00"
+            },
+            {
+                "item_count": 12041,
+                "avg_price": 47,
+                "timestamp": "2021-08-10T23:00:00"
+            },
+            {
+                "item_count": 7732,
+                "avg_price": 45,
+                "timestamp": "2021-08-11T00:00:00"
+            },
+            {
+                "item_count": 13710,
+                "avg_price": 46,
+                "timestamp": "2021-08-11T01:00:00"
+            },
+            {
+                "item_count": 2746,
+                "avg_price": 46,
+                "timestamp": "2021-08-11T02:00:00"
+            },
+            {
+                "item_count": 4829,
+                "avg_price": 46,
+                "timestamp": "2021-08-11T03:00:00"
+            },
+            {
+                "item_count": 3456,
+                "avg_price": 45,
+                "timestamp": "2021-08-11T04:00:00"
+            },
+            {
+                "item_count": 4712,
+                "avg_price": 45,
+                "timestamp": "2021-08-11T05:00:00"
+            },
+            {
+                "item_count": 5372,
+                "avg_price": 46,
+                "timestamp": "2021-08-11T06:00:00"
+            },
+            {
+                "item_count": 6144,
+                "avg_price": 45,
+                "timestamp": "2021-08-11T07:00:00"
+            },
+            {
+                "item_count": 1753,
+                "avg_price": 45,
+                "timestamp": "2021-08-11T08:00:00"
+            },
+            {
+                "item_count": 4358,
+                "avg_price": 45,
+                "timestamp": "2021-08-11T09:00:00"
+            },
+            {
+                "item_count": 823,
+                "avg_price": 46,
+                "timestamp": "2021-08-11T10:00:00"
+            },
+            {
+                "item_count": 6344,
+                "avg_price": 46,
+                "timestamp": "2021-08-11T11:00:00"
+            },
+            {
+                "item_count": 33352,
+                "avg_price": 47,
+                "timestamp": "2021-08-11T12:00:00"
+            },
+            {
+                "item_count": 12272,
+                "avg_price": 47,
+                "timestamp": "2021-08-11T13:00:00"
+            },
+            {
+                "item_count": 18379,
+                "avg_price": 48,
+                "timestamp": "2021-08-11T14:00:00"
+            },
+            {
+                "item_count": 5024,
+                "avg_price": 45,
+                "timestamp": "2021-08-11T15:00:00"
+            },
+            {
+                "item_count": 8656,
+                "avg_price": 48,
+                "timestamp": "2021-08-11T16:00:00"
+            },
+            {
+                "item_count": 6831,
+                "avg_price": 48,
+                "timestamp": "2021-08-11T17:00:00"
+            },
+            {
+                "item_count": 8415,
+                "avg_price": 52,
+                "timestamp": "2021-08-11T18:00:00"
+            },
+            {
+                "item_count": 6915,
+                "avg_price": 48,
+                "timestamp": "2021-08-11T19:00:00"
+            },
+            {
+                "item_count": 9639,
+                "avg_price": 53,
+                "timestamp": "2021-08-11T20:00:00"
+            },
+            {
+                "item_count": 7573,
+                "avg_price": 48,
+                "timestamp": "2021-08-11T21:00:00"
+            },
+            {
+                "item_count": 8439,
+                "avg_price": 48,
+                "timestamp": "2021-08-11T22:00:00"
+            },
+            {
+                "item_count": 4807,
+                "avg_price": 48,
+                "timestamp": "2021-08-11T23:00:00"
+            },
+            {
+                "item_count": 4223,
+                "avg_price": 47,
+                "timestamp": "2021-08-12T00:00:00"
+            },
+            {
+                "item_count": 5032,
+                "avg_price": 47,
+                "timestamp": "2021-08-12T01:00:00"
+            },
+            {
+                "item_count": 4450,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T02:00:00"
+            },
+            {
+                "item_count": 4362,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T03:00:00"
+            },
+            {
+                "item_count": 3905,
+                "avg_price": 47,
+                "timestamp": "2021-08-12T04:00:00"
+            },
+            {
+                "item_count": 3544,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T05:00:00"
+            },
+            {
+                "item_count": 7350,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T06:00:00"
+            },
+            {
+                "item_count": 5283,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T12:00:00"
+            },
+            {
+                "item_count": 10644,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T13:00:00"
+            },
+            {
+                "item_count": 8533,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T14:00:00"
+            },
+            {
+                "item_count": 4889,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T15:00:00"
+            },
+            {
+                "item_count": 9630,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T16:00:00"
+            },
+            {
+                "item_count": 6638,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T17:00:00"
+            },
+            {
+                "item_count": 2799,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T18:00:00"
+            },
+            {
+                "item_count": 11701,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T19:00:00"
+            },
+            {
+                "item_count": 4787,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T20:00:00"
+            },
+            {
+                "item_count": 5018,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T21:00:00"
+            },
+            {
+                "item_count": 4162,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T22:00:00"
+            },
+            {
+                "item_count": 6048,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T23:00:00"
+            },
+            {
+                "item_count": 5059,
+                "avg_price": 47,
+                "timestamp": "2021-08-13T00:00:00"
+            },
+            {
+                "item_count": 5663,
+                "avg_price": 48,
+                "timestamp": "2021-08-13T01:00:00"
+            },
+            {
+                "item_count": 4693,
+                "avg_price": 49,
+                "timestamp": "2021-08-13T02:00:00"
+            },
+            {
+                "item_count": 2705,
+                "avg_price": 49,
+                "timestamp": "2021-08-13T03:00:00"
+            },
+            {
+                "item_count": 5475,
+                "avg_price": 49,
+                "timestamp": "2021-08-13T04:00:00"
+            },
+            {
+                "item_count": 3844,
+                "avg_price": 47,
+                "timestamp": "2021-08-13T05:00:00"
+            },
+            {
+                "item_count": 6887,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T06:00:00"
+            },
+            {
+                "item_count": 4006,
+                "avg_price": 47,
+                "timestamp": "2021-08-13T07:00:00"
+            },
+            {
+                "item_count": 3996,
+                "avg_price": 47,
+                "timestamp": "2021-08-13T08:00:00"
+            },
+            {
+                "item_count": 7941,
+                "avg_price": 47,
+                "timestamp": "2021-08-13T09:00:00"
+            },
+            {
+                "item_count": 254,
+                "avg_price": 49,
+                "timestamp": "2021-08-13T10:00:00"
+            },
+            {
+                "item_count": 3393,
+                "avg_price": 48,
+                "timestamp": "2021-08-13T11:00:00"
+            },
+            {
+                "item_count": 2093,
+                "avg_price": 48,
+                "timestamp": "2021-08-13T12:00:00"
+            },
+            {
+                "item_count": 3491,
+                "avg_price": 49,
+                "timestamp": "2021-08-13T13:00:00"
+            },
+            {
+                "item_count": 6041,
+                "avg_price": 49,
+                "timestamp": "2021-08-13T14:00:00"
+            },
+            {
+                "item_count": 9242,
+                "avg_price": 50,
+                "timestamp": "2021-08-13T15:00:00"
+            },
+            {
+                "item_count": 9268,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T16:00:00"
+            },
+            {
+                "item_count": 7216,
+                "avg_price": 49,
+                "timestamp": "2021-08-13T17:00:00"
+            },
+            {
+                "item_count": 13587,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T18:00:00"
+            },
+            {
+                "item_count": 11358,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T19:00:00"
+            },
+            {
+                "item_count": 3405,
+                "avg_price": 48,
+                "timestamp": "2021-08-13T20:00:00"
+            },
+            {
+                "item_count": 3514,
+                "avg_price": 48,
+                "timestamp": "2021-08-13T21:00:00"
+            },
+            {
+                "item_count": 7823,
+                "avg_price": 47,
+                "timestamp": "2021-08-13T22:00:00"
+            },
+            {
+                "item_count": 6299,
+                "avg_price": 47,
+                "timestamp": "2021-08-13T23:00:00"
+            },
+            {
+                "item_count": 15107,
+                "avg_price": 47,
+                "timestamp": "2021-08-14T00:00:00"
+            },
+            {
+                "item_count": 6224,
+                "avg_price": 49,
+                "timestamp": "2021-08-14T01:00:00"
+            },
+            {
+                "item_count": 6206,
+                "avg_price": 51,
+                "timestamp": "2021-08-14T02:00:00"
+            },
+            {
+                "item_count": 9460,
+                "avg_price": 52,
+                "timestamp": "2021-08-14T03:00:00"
+            },
+            {
+                "item_count": 7171,
+                "avg_price": 50,
+                "timestamp": "2021-08-14T04:00:00"
+            },
+            {
+                "item_count": 7677,
+                "avg_price": 50,
+                "timestamp": "2021-08-14T05:00:00"
+            },
+            {
+                "item_count": 10775,
+                "avg_price": 50,
+                "timestamp": "2021-08-14T06:00:00"
+            },
+            {
+                "item_count": 6961,
+                "avg_price": 55,
+                "timestamp": "2021-08-14T07:00:00"
+            },
+            {
+                "item_count": 6248,
+                "avg_price": 52,
+                "timestamp": "2021-08-14T08:00:00"
+            },
+            {
+                "item_count": 10033,
+                "avg_price": 51,
+                "timestamp": "2021-08-14T09:00:00"
+            },
+            {
+                "item_count": 533,
+                "avg_price": 50,
+                "timestamp": "2021-08-14T10:00:00"
+            },
+            {
+                "item_count": 6440,
+                "avg_price": 50,
+                "timestamp": "2021-08-14T11:00:00"
+            },
+            {
+                "item_count": 6424,
+                "avg_price": 47,
+                "timestamp": "2021-08-14T12:00:00"
+            },
+            {
+                "item_count": 6922,
+                "avg_price": 47,
+                "timestamp": "2021-08-14T13:00:00"
+            },
+            {
+                "item_count": 8975,
+                "avg_price": 48,
+                "timestamp": "2021-08-14T14:00:00"
+            },
+            {
+                "item_count": 5638,
+                "avg_price": 49,
+                "timestamp": "2021-08-14T15:00:00"
+            },
+            {
+                "item_count": 8690,
+                "avg_price": 49,
+                "timestamp": "2021-08-14T16:00:00"
+            },
+            {
+                "item_count": 14803,
+                "avg_price": 49,
+                "timestamp": "2021-08-14T19:00:00"
+            },
+            {
+                "item_count": 7147,
+                "avg_price": 54,
+                "timestamp": "2021-08-14T20:00:00"
+            },
+            {
+                "item_count": 5619,
+                "avg_price": 49,
+                "timestamp": "2021-08-14T21:00:00"
+            },
+            {
+                "item_count": 6898,
+                "avg_price": 51,
+                "timestamp": "2021-08-14T22:00:00"
+            },
+            {
+                "item_count": 6900,
+                "avg_price": 51,
+                "timestamp": "2021-08-14T23:00:00"
+            },
+            {
+                "item_count": 6616,
+                "avg_price": 54,
+                "timestamp": "2021-08-15T00:00:00"
+            },
+            {
+                "item_count": 5055,
+                "avg_price": 51,
+                "timestamp": "2021-08-15T01:00:00"
+            },
+            {
+                "item_count": 4706,
+                "avg_price": 52,
+                "timestamp": "2021-08-15T02:00:00"
+            },
+            {
+                "item_count": 9421,
+                "avg_price": 58,
+                "timestamp": "2021-08-15T03:00:00"
+            },
+            {
+                "item_count": 5795,
+                "avg_price": 52,
+                "timestamp": "2021-08-15T04:00:00"
+            },
+            {
+                "item_count": 4866,
+                "avg_price": 51,
+                "timestamp": "2021-08-15T05:00:00"
+            },
+            {
+                "item_count": 5760,
+                "avg_price": 51,
+                "timestamp": "2021-08-15T06:00:00"
+            },
+            {
+                "item_count": 4331,
+                "avg_price": 52,
+                "timestamp": "2021-08-15T07:00:00"
+            },
+            {
+                "item_count": 3741,
+                "avg_price": 51,
+                "timestamp": "2021-08-15T08:00:00"
+            },
+            {
+                "item_count": 6221,
+                "avg_price": 51,
+                "timestamp": "2021-08-15T09:00:00"
+            },
+            {
+                "item_count": 3114,
+                "avg_price": 52,
+                "timestamp": "2021-08-15T10:00:00"
+            },
+            {
+                "item_count": 3784,
+                "avg_price": 52,
+                "timestamp": "2021-08-15T11:00:00"
+            },
+            {
+                "item_count": 11446,
+                "avg_price": 51,
+                "timestamp": "2021-08-15T12:00:00"
+            },
+            {
+                "item_count": 10306,
+                "avg_price": 57,
+                "timestamp": "2021-08-15T13:00:00"
+            },
+            {
+                "item_count": 10240,
+                "avg_price": 51,
+                "timestamp": "2021-08-15T14:00:00"
+            },
+            {
+                "item_count": 17201,
+                "avg_price": 63,
+                "timestamp": "2021-08-15T15:00:00"
+            },
+            {
+                "item_count": 5461,
+                "avg_price": 54,
+                "timestamp": "2021-08-15T16:00:00"
+            },
+            {
+                "item_count": 7111,
+                "avg_price": 64,
+                "timestamp": "2021-08-15T17:00:00"
+            },
+            {
+                "item_count": 4971,
+                "avg_price": 53,
+                "timestamp": "2021-08-15T18:00:00"
+            },
+            {
+                "item_count": 4523,
+                "avg_price": 54,
+                "timestamp": "2021-08-15T19:00:00"
+            },
+            {
+                "item_count": 9704,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T20:00:00"
+            },
+            {
+                "item_count": 8260,
+                "avg_price": 54,
+                "timestamp": "2021-08-15T21:00:00"
+            },
+            {
+                "item_count": 4828,
+                "avg_price": 54,
+                "timestamp": "2021-08-15T22:00:00"
+            },
+            {
+                "item_count": 4991,
+                "avg_price": 53,
+                "timestamp": "2021-08-15T23:00:00"
+            },
+            {
+                "item_count": 3908,
+                "avg_price": 54,
+                "timestamp": "2021-08-16T00:00:00"
+            }
+        ]
+    },
+    {
+        "location": "Caerleon",
+        "item_id": "T4_ORE",
+        "quality": 1,
+        "data": [
+            {
+                "item_count": 4010,
+                "avg_price": 39,
+                "timestamp": "2021-08-09T19:00:00"
+            },
+            {
+                "item_count": 387,
+                "avg_price": 39,
+                "timestamp": "2021-08-09T20:00:00"
+            },
+            {
+                "item_count": 880,
+                "avg_price": 43,
+                "timestamp": "2021-08-11T19:00:00"
+            },
+            {
+                "item_count": 1458,
+                "avg_price": 45,
+                "timestamp": "2021-08-11T20:00:00"
+            },
+            {
+                "item_count": 576,
+                "avg_price": 43,
+                "timestamp": "2021-08-11T21:00:00"
+            },
+            {
+                "item_count": 1100,
+                "avg_price": 43,
+                "timestamp": "2021-08-11T22:00:00"
+            },
+            {
+                "item_count": 2961,
+                "avg_price": 44,
+                "timestamp": "2021-08-11T23:00:00"
+            },
+            {
+                "item_count": 595,
+                "avg_price": 44,
+                "timestamp": "2021-08-12T00:00:00"
+            },
+            {
+                "item_count": 4280,
+                "avg_price": 44,
+                "timestamp": "2021-08-12T01:00:00"
+            },
+            {
+                "item_count": 2475,
+                "avg_price": 43,
+                "timestamp": "2021-08-12T02:00:00"
+            },
+            {
+                "item_count": 1958,
+                "avg_price": 44,
+                "timestamp": "2021-08-12T03:00:00"
+            },
+            {
+                "item_count": 807,
+                "avg_price": 42,
+                "timestamp": "2021-08-12T04:00:00"
+            },
+            {
+                "item_count": 1384,
+                "avg_price": 42,
+                "timestamp": "2021-08-12T05:00:00"
+            },
+            {
+                "item_count": 1896,
+                "avg_price": 42,
+                "timestamp": "2021-08-12T06:00:00"
+            },
+            {
+                "item_count": 820,
+                "avg_price": 43,
+                "timestamp": "2021-08-12T07:00:00"
+            },
+            {
+                "item_count": 4626,
+                "avg_price": 44,
+                "timestamp": "2021-08-12T08:00:00"
+            },
+            {
+                "item_count": 2190,
+                "avg_price": 42,
+                "timestamp": "2021-08-12T09:00:00"
+            },
+            {
+                "item_count": 56,
+                "avg_price": 43,
+                "timestamp": "2021-08-12T10:00:00"
+            },
+            {
+                "item_count": 6382,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T11:00:00"
+            },
+            {
+                "item_count": 754,
+                "avg_price": 43,
+                "timestamp": "2021-08-12T12:00:00"
+            },
+            {
+                "item_count": 5573,
+                "avg_price": 43,
+                "timestamp": "2021-08-12T13:00:00"
+            },
+            {
+                "item_count": 3789,
+                "avg_price": 42,
+                "timestamp": "2021-08-12T14:00:00"
+            },
+            {
+                "item_count": 2921,
+                "avg_price": 41,
+                "timestamp": "2021-08-12T15:00:00"
+            },
+            {
+                "item_count": 3772,
+                "avg_price": 41,
+                "timestamp": "2021-08-12T16:00:00"
+            },
+            {
+                "item_count": 646,
+                "avg_price": 39,
+                "timestamp": "2021-08-12T17:00:00"
+            },
+            {
+                "item_count": 2578,
+                "avg_price": 40,
+                "timestamp": "2021-08-12T18:00:00"
+            },
+            {
+                "item_count": 827,
+                "avg_price": 39,
+                "timestamp": "2021-08-12T19:00:00"
+            },
+            {
+                "item_count": 2344,
+                "avg_price": 39,
+                "timestamp": "2021-08-12T20:00:00"
+            },
+            {
+                "item_count": 3499,
+                "avg_price": 39,
+                "timestamp": "2021-08-12T21:00:00"
+            },
+            {
+                "item_count": 1829,
+                "avg_price": 41,
+                "timestamp": "2021-08-12T22:00:00"
+            },
+            {
+                "item_count": 5222,
+                "avg_price": 40,
+                "timestamp": "2021-08-12T23:00:00"
+            },
+            {
+                "item_count": 626,
+                "avg_price": 40,
+                "timestamp": "2021-08-13T00:00:00"
+            },
+            {
+                "item_count": 2242,
+                "avg_price": 40,
+                "timestamp": "2021-08-13T01:00:00"
+            },
+            {
+                "item_count": 3578,
+                "avg_price": 40,
+                "timestamp": "2021-08-13T02:00:00"
+            },
+            {
+                "item_count": 3060,
+                "avg_price": 39,
+                "timestamp": "2021-08-13T03:00:00"
+            },
+            {
+                "item_count": 306,
+                "avg_price": 40,
+                "timestamp": "2021-08-13T04:00:00"
+            },
+            {
+                "item_count": 1253,
+                "avg_price": 40,
+                "timestamp": "2021-08-13T05:00:00"
+            },
+            {
+                "item_count": 667,
+                "avg_price": 40,
+                "timestamp": "2021-08-13T06:00:00"
+            },
+            {
+                "item_count": 2705,
+                "avg_price": 42,
+                "timestamp": "2021-08-13T07:00:00"
+            },
+            {
+                "item_count": 1667,
+                "avg_price": 39,
+                "timestamp": "2021-08-13T08:00:00"
+            },
+            {
+                "item_count": 2559,
+                "avg_price": 40,
+                "timestamp": "2021-08-13T09:00:00"
+            },
+            {
+                "item_count": 317,
+                "avg_price": 40,
+                "timestamp": "2021-08-13T10:00:00"
+            },
+            {
+                "item_count": 2006,
+                "avg_price": 40,
+                "timestamp": "2021-08-13T11:00:00"
+            },
+            {
+                "item_count": 3226,
+                "avg_price": 40,
+                "timestamp": "2021-08-13T12:00:00"
+            },
+            {
+                "item_count": 3491,
+                "avg_price": 40,
+                "timestamp": "2021-08-13T13:00:00"
+            },
+            {
+                "item_count": 3069,
+                "avg_price": 41,
+                "timestamp": "2021-08-13T14:00:00"
+            },
+            {
+                "item_count": 3351,
+                "avg_price": 40,
+                "timestamp": "2021-08-13T15:00:00"
+            },
+            {
+                "item_count": 3681,
+                "avg_price": 42,
+                "timestamp": "2021-08-13T16:00:00"
+            },
+            {
+                "item_count": 5213,
+                "avg_price": 47,
+                "timestamp": "2021-08-13T19:00:00"
+            },
+            {
+                "item_count": 549,
+                "avg_price": 44,
+                "timestamp": "2021-08-13T20:00:00"
+            },
+            {
+                "item_count": 1854,
+                "avg_price": 44,
+                "timestamp": "2021-08-13T21:00:00"
+            },
+            {
+                "item_count": 1284,
+                "avg_price": 46,
+                "timestamp": "2021-08-13T22:00:00"
+            },
+            {
+                "item_count": 1134,
+                "avg_price": 44,
+                "timestamp": "2021-08-13T23:00:00"
+            },
+            {
+                "item_count": 467,
+                "avg_price": 45,
+                "timestamp": "2021-08-14T00:00:00"
+            },
+            {
+                "item_count": 2085,
+                "avg_price": 45,
+                "timestamp": "2021-08-14T01:00:00"
+            },
+            {
+                "item_count": 282,
+                "avg_price": 45,
+                "timestamp": "2021-08-14T02:00:00"
+            },
+            {
+                "item_count": 1142,
+                "avg_price": 45,
+                "timestamp": "2021-08-14T03:00:00"
+            },
+            {
+                "item_count": 1604,
+                "avg_price": 45,
+                "timestamp": "2021-08-14T04:00:00"
+            },
+            {
+                "item_count": 2750,
+                "avg_price": 45,
+                "timestamp": "2021-08-14T05:00:00"
+            },
+            {
+                "item_count": 1746,
+                "avg_price": 45,
+                "timestamp": "2021-08-14T06:00:00"
+            },
+            {
+                "item_count": 2426,
+                "avg_price": 46,
+                "timestamp": "2021-08-14T07:00:00"
+            },
+            {
+                "item_count": 1103,
+                "avg_price": 45,
+                "timestamp": "2021-08-14T08:00:00"
+            },
+            {
+                "item_count": 2206,
+                "avg_price": 45,
+                "timestamp": "2021-08-14T09:00:00"
+            },
+            {
+                "item_count": 39,
+                "avg_price": 45,
+                "timestamp": "2021-08-14T10:00:00"
+            },
+            {
+                "item_count": 2479,
+                "avg_price": 44,
+                "timestamp": "2021-08-14T11:00:00"
+            },
+            {
+                "item_count": 1950,
+                "avg_price": 44,
+                "timestamp": "2021-08-14T12:00:00"
+            },
+            {
+                "item_count": 6052,
+                "avg_price": 47,
+                "timestamp": "2021-08-14T13:00:00"
+            },
+            {
+                "item_count": 5251,
+                "avg_price": 53,
+                "timestamp": "2021-08-14T14:00:00"
+            },
+            {
+                "item_count": 699,
+                "avg_price": 44,
+                "timestamp": "2021-08-14T15:00:00"
+            },
+            {
+                "item_count": 3279,
+                "avg_price": 48,
+                "timestamp": "2021-08-14T16:00:00"
+            },
+            {
+                "item_count": 1042,
+                "avg_price": 44,
+                "timestamp": "2021-08-14T17:00:00"
+            },
+            {
+                "item_count": 1586,
+                "avg_price": 44,
+                "timestamp": "2021-08-14T18:00:00"
+            },
+            {
+                "item_count": 787,
+                "avg_price": 44,
+                "timestamp": "2021-08-14T19:00:00"
+            },
+            {
+                "item_count": 2896,
+                "avg_price": 44,
+                "timestamp": "2021-08-14T20:00:00"
+            },
+            {
+                "item_count": 2212,
+                "avg_price": 44,
+                "timestamp": "2021-08-14T21:00:00"
+            },
+            {
+                "item_count": 291,
+                "avg_price": 44,
+                "timestamp": "2021-08-14T22:00:00"
+            },
+            {
+                "item_count": 1861,
+                "avg_price": 48,
+                "timestamp": "2021-08-14T23:00:00"
+            },
+            {
+                "item_count": 4495,
+                "avg_price": 51,
+                "timestamp": "2021-08-15T00:00:00"
+            },
+            {
+                "item_count": 1103,
+                "avg_price": 44,
+                "timestamp": "2021-08-15T01:00:00"
+            },
+            {
+                "item_count": 1626,
+                "avg_price": 44,
+                "timestamp": "2021-08-15T02:00:00"
+            },
+            {
+                "item_count": 115,
+                "avg_price": 44,
+                "timestamp": "2021-08-15T03:00:00"
+            },
+            {
+                "item_count": 1171,
+                "avg_price": 44,
+                "timestamp": "2021-08-15T04:00:00"
+            },
+            {
+                "item_count": 1327,
+                "avg_price": 45,
+                "timestamp": "2021-08-15T05:00:00"
+            },
+            {
+                "item_count": 1847,
+                "avg_price": 48,
+                "timestamp": "2021-08-15T06:00:00"
+            },
+            {
+                "item_count": 4660,
+                "avg_price": 44,
+                "timestamp": "2021-08-15T07:00:00"
+            },
+            {
+                "item_count": 1122,
+                "avg_price": 44,
+                "timestamp": "2021-08-15T08:00:00"
+            },
+            {
+                "item_count": 1587,
+                "avg_price": 44,
+                "timestamp": "2021-08-15T09:00:00"
+            },
+            {
+                "item_count": 389,
+                "avg_price": 45,
+                "timestamp": "2021-08-15T10:00:00"
+            },
+            {
+                "item_count": 3743,
+                "avg_price": 47,
+                "timestamp": "2021-08-15T11:00:00"
+            },
+            {
+                "item_count": 234,
+                "avg_price": 45,
+                "timestamp": "2021-08-15T12:00:00"
+            },
+            {
+                "item_count": 1223,
+                "avg_price": 45,
+                "timestamp": "2021-08-15T13:00:00"
+            },
+            {
+                "item_count": 2026,
+                "avg_price": 45,
+                "timestamp": "2021-08-15T14:00:00"
+            },
+            {
+                "item_count": 2464,
+                "avg_price": 45,
+                "timestamp": "2021-08-15T15:00:00"
+            },
+            {
+                "item_count": 6542,
+                "avg_price": 46,
+                "timestamp": "2021-08-15T16:00:00"
+            },
+            {
+                "item_count": 1706,
+                "avg_price": 45,
+                "timestamp": "2021-08-15T17:00:00"
+            },
+            {
+                "item_count": 2514,
+                "avg_price": 46,
+                "timestamp": "2021-08-15T18:00:00"
+            },
+            {
+                "item_count": 539,
+                "avg_price": 46,
+                "timestamp": "2021-08-15T19:00:00"
+            }
+        ]
+    },
+    {
+        "location": "Fort Sterling",
+        "item_id": "T4_ORE",
+        "quality": 1,
+        "data": [
+            {
+                "item_count": 28049,
+                "avg_price": 52,
+                "timestamp": "2021-08-09T19:00:00"
+            },
+            {
+                "item_count": 15763,
+                "avg_price": 54,
+                "timestamp": "2021-08-09T20:00:00"
+            },
+            {
+                "item_count": 17150,
+                "avg_price": 53,
+                "timestamp": "2021-08-09T21:00:00"
+            },
+            {
+                "item_count": 26972,
+                "avg_price": 53,
+                "timestamp": "2021-08-09T22:00:00"
+            },
+            {
+                "item_count": 20435,
+                "avg_price": 52,
+                "timestamp": "2021-08-09T23:00:00"
+            },
+            {
+                "item_count": 14727,
+                "avg_price": 52,
+                "timestamp": "2021-08-10T00:00:00"
+            },
+            {
+                "item_count": 17702,
+                "avg_price": 52,
+                "timestamp": "2021-08-10T01:00:00"
+            },
+            {
+                "item_count": 9858,
+                "avg_price": 52,
+                "timestamp": "2021-08-10T02:00:00"
+            },
+            {
+                "item_count": 17948,
+                "avg_price": 52,
+                "timestamp": "2021-08-10T03:00:00"
+            },
+            {
+                "item_count": 27470,
+                "avg_price": 50,
+                "timestamp": "2021-08-10T04:00:00"
+            },
+            {
+                "item_count": 13158,
+                "avg_price": 51,
+                "timestamp": "2021-08-10T05:00:00"
+            },
+            {
+                "item_count": 14310,
+                "avg_price": 53,
+                "timestamp": "2021-08-10T06:00:00"
+            },
+            {
+                "item_count": 28767,
+                "avg_price": 54,
+                "timestamp": "2021-08-10T07:00:00"
+            },
+            {
+                "item_count": 32296,
+                "avg_price": 54,
+                "timestamp": "2021-08-10T08:00:00"
+            },
+            {
+                "item_count": 18235,
+                "avg_price": 54,
+                "timestamp": "2021-08-10T09:00:00"
+            },
+            {
+                "item_count": 1801,
+                "avg_price": 54,
+                "timestamp": "2021-08-10T10:00:00"
+            },
+            {
+                "item_count": 17847,
+                "avg_price": 55,
+                "timestamp": "2021-08-10T11:00:00"
+            },
+            {
+                "item_count": 34403,
+                "avg_price": 57,
+                "timestamp": "2021-08-10T12:00:00"
+            },
+            {
+                "item_count": 25091,
+                "avg_price": 57,
+                "timestamp": "2021-08-10T13:00:00"
+            },
+            {
+                "item_count": 40673,
+                "avg_price": 59,
+                "timestamp": "2021-08-10T14:00:00"
+            },
+            {
+                "item_count": 47531,
+                "avg_price": 58,
+                "timestamp": "2021-08-10T15:00:00"
+            },
+            {
+                "item_count": 19085,
+                "avg_price": 60,
+                "timestamp": "2021-08-10T16:00:00"
+            },
+            {
+                "item_count": 19079,
+                "avg_price": 59,
+                "timestamp": "2021-08-10T17:00:00"
+            },
+            {
+                "item_count": 38814,
+                "avg_price": 60,
+                "timestamp": "2021-08-10T18:00:00"
+            },
+            {
+                "item_count": 24940,
+                "avg_price": 57,
+                "timestamp": "2021-08-10T19:00:00"
+            },
+            {
+                "item_count": 16562,
+                "avg_price": 55,
+                "timestamp": "2021-08-10T20:00:00"
+            },
+            {
+                "item_count": 27700,
+                "avg_price": 56,
+                "timestamp": "2021-08-10T21:00:00"
+            },
+            {
+                "item_count": 18087,
+                "avg_price": 56,
+                "timestamp": "2021-08-10T22:00:00"
+            },
+            {
+                "item_count": 25213,
+                "avg_price": 55,
+                "timestamp": "2021-08-10T23:00:00"
+            },
+            {
+                "item_count": 33323,
+                "avg_price": 56,
+                "timestamp": "2021-08-11T00:00:00"
+            },
+            {
+                "item_count": 28177,
+                "avg_price": 56,
+                "timestamp": "2021-08-11T01:00:00"
+            },
+            {
+                "item_count": 17937,
+                "avg_price": 55,
+                "timestamp": "2021-08-11T02:00:00"
+            },
+            {
+                "item_count": 29477,
+                "avg_price": 55,
+                "timestamp": "2021-08-11T03:00:00"
+            },
+            {
+                "item_count": 17676,
+                "avg_price": 55,
+                "timestamp": "2021-08-11T04:00:00"
+            },
+            {
+                "item_count": 24252,
+                "avg_price": 54,
+                "timestamp": "2021-08-11T05:00:00"
+            },
+            {
+                "item_count": 8162,
+                "avg_price": 52,
+                "timestamp": "2021-08-11T06:00:00"
+            },
+            {
+                "item_count": 35004,
+                "avg_price": 55,
+                "timestamp": "2021-08-11T07:00:00"
+            },
+            {
+                "item_count": 8379,
+                "avg_price": 53,
+                "timestamp": "2021-08-11T08:00:00"
+            },
+            {
+                "item_count": 21901,
+                "avg_price": 51,
+                "timestamp": "2021-08-11T09:00:00"
+            },
+            {
+                "item_count": 1622,
+                "avg_price": 51,
+                "timestamp": "2021-08-11T10:00:00"
+            },
+            {
+                "item_count": 18255,
+                "avg_price": 51,
+                "timestamp": "2021-08-11T11:00:00"
+            },
+            {
+                "item_count": 29922,
+                "avg_price": 53,
+                "timestamp": "2021-08-11T12:00:00"
+            },
+            {
+                "item_count": 32605,
+                "avg_price": 54,
+                "timestamp": "2021-08-11T13:00:00"
+            },
+            {
+                "item_count": 18009,
+                "avg_price": 54,
+                "timestamp": "2021-08-11T14:00:00"
+            },
+            {
+                "item_count": 22800,
+                "avg_price": 54,
+                "timestamp": "2021-08-11T15:00:00"
+            },
+            {
+                "item_count": 16712,
+                "avg_price": 52,
+                "timestamp": "2021-08-11T16:00:00"
+            },
+            {
+                "item_count": 116548,
+                "avg_price": 54,
+                "timestamp": "2021-08-11T17:00:00"
+            },
+            {
+                "item_count": 27800,
+                "avg_price": 50,
+                "timestamp": "2021-08-11T18:00:00"
+            },
+            {
+                "item_count": 13548,
+                "avg_price": 53,
+                "timestamp": "2021-08-11T19:00:00"
+            },
+            {
+                "item_count": 19137,
+                "avg_price": 52,
+                "timestamp": "2021-08-11T20:00:00"
+            },
+            {
+                "item_count": 21949,
+                "avg_price": 54,
+                "timestamp": "2021-08-11T21:00:00"
+            },
+            {
+                "item_count": 19835,
+                "avg_price": 53,
+                "timestamp": "2021-08-11T22:00:00"
+            },
+            {
+                "item_count": 24158,
+                "avg_price": 57,
+                "timestamp": "2021-08-11T23:00:00"
+            },
+            {
+                "item_count": 16589,
+                "avg_price": 56,
+                "timestamp": "2021-08-12T00:00:00"
+            },
+            {
+                "item_count": 8161,
+                "avg_price": 55,
+                "timestamp": "2021-08-12T01:00:00"
+            },
+            {
+                "item_count": 16257,
+                "avg_price": 53,
+                "timestamp": "2021-08-12T02:00:00"
+            },
+            {
+                "item_count": 22592,
+                "avg_price": 53,
+                "timestamp": "2021-08-12T03:00:00"
+            },
+            {
+                "item_count": 10100,
+                "avg_price": 51,
+                "timestamp": "2021-08-12T04:00:00"
+            },
+            {
+                "item_count": 21574,
+                "avg_price": 52,
+                "timestamp": "2021-08-12T05:00:00"
+            },
+            {
+                "item_count": 21728,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T06:00:00"
+            },
+            {
+                "item_count": 15694,
+                "avg_price": 50,
+                "timestamp": "2021-08-12T07:00:00"
+            },
+            {
+                "item_count": 20969,
+                "avg_price": 50,
+                "timestamp": "2021-08-12T08:00:00"
+            },
+            {
+                "item_count": 17551,
+                "avg_price": 50,
+                "timestamp": "2021-08-12T09:00:00"
+            },
+            {
+                "item_count": 2166,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T10:00:00"
+            },
+            {
+                "item_count": 31555,
+                "avg_price": 51,
+                "timestamp": "2021-08-12T11:00:00"
+            },
+            {
+                "item_count": 18139,
+                "avg_price": 50,
+                "timestamp": "2021-08-12T12:00:00"
+            },
+            {
+                "item_count": 16520,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T13:00:00"
+            },
+            {
+                "item_count": 15565,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T14:00:00"
+            },
+            {
+                "item_count": 30772,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T15:00:00"
+            },
+            {
+                "item_count": 24162,
+                "avg_price": 50,
+                "timestamp": "2021-08-12T16:00:00"
+            },
+            {
+                "item_count": 29360,
+                "avg_price": 52,
+                "timestamp": "2021-08-12T17:00:00"
+            },
+            {
+                "item_count": 19645,
+                "avg_price": 54,
+                "timestamp": "2021-08-12T18:00:00"
+            },
+            {
+                "item_count": 24277,
+                "avg_price": 50,
+                "timestamp": "2021-08-12T19:00:00"
+            },
+            {
+                "item_count": 27911,
+                "avg_price": 50,
+                "timestamp": "2021-08-12T20:00:00"
+            },
+            {
+                "item_count": 32505,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T21:00:00"
+            },
+            {
+                "item_count": 24035,
+                "avg_price": 51,
+                "timestamp": "2021-08-12T22:00:00"
+            },
+            {
+                "item_count": 30696,
+                "avg_price": 55,
+                "timestamp": "2021-08-12T23:00:00"
+            },
+            {
+                "item_count": 9995,
+                "avg_price": 52,
+                "timestamp": "2021-08-13T00:00:00"
+            },
+            {
+                "item_count": 23404,
+                "avg_price": 54,
+                "timestamp": "2021-08-13T01:00:00"
+            },
+            {
+                "item_count": 13282,
+                "avg_price": 54,
+                "timestamp": "2021-08-13T02:00:00"
+            },
+            {
+                "item_count": 30805,
+                "avg_price": 53,
+                "timestamp": "2021-08-13T03:00:00"
+            },
+            {
+                "item_count": 13344,
+                "avg_price": 53,
+                "timestamp": "2021-08-13T04:00:00"
+            },
+            {
+                "item_count": 16483,
+                "avg_price": 54,
+                "timestamp": "2021-08-13T05:00:00"
+            },
+            {
+                "item_count": 27013,
+                "avg_price": 58,
+                "timestamp": "2021-08-13T06:00:00"
+            },
+            {
+                "item_count": 34263,
+                "avg_price": 58,
+                "timestamp": "2021-08-13T07:00:00"
+            },
+            {
+                "item_count": 17846,
+                "avg_price": 56,
+                "timestamp": "2021-08-13T08:00:00"
+            },
+            {
+                "item_count": 14717,
+                "avg_price": 55,
+                "timestamp": "2021-08-13T09:00:00"
+            },
+            {
+                "item_count": 5120,
+                "avg_price": 53,
+                "timestamp": "2021-08-13T10:00:00"
+            },
+            {
+                "item_count": 10697,
+                "avg_price": 55,
+                "timestamp": "2021-08-13T11:00:00"
+            },
+            {
+                "item_count": 34681,
+                "avg_price": 58,
+                "timestamp": "2021-08-13T12:00:00"
+            },
+            {
+                "item_count": 28280,
+                "avg_price": 61,
+                "timestamp": "2021-08-13T13:00:00"
+            },
+            {
+                "item_count": 50467,
+                "avg_price": 61,
+                "timestamp": "2021-08-13T14:00:00"
+            },
+            {
+                "item_count": 14870,
+                "avg_price": 60,
+                "timestamp": "2021-08-13T15:00:00"
+            },
+            {
+                "item_count": 31814,
+                "avg_price": 60,
+                "timestamp": "2021-08-13T16:00:00"
+            },
+            {
+                "item_count": 38821,
+                "avg_price": 61,
+                "timestamp": "2021-08-13T17:00:00"
+            },
+            {
+                "item_count": 27478,
+                "avg_price": 60,
+                "timestamp": "2021-08-13T18:00:00"
+            },
+            {
+                "item_count": 33561,
+                "avg_price": 61,
+                "timestamp": "2021-08-13T19:00:00"
+            },
+            {
+                "item_count": 20823,
+                "avg_price": 59,
+                "timestamp": "2021-08-13T20:00:00"
+            },
+            {
+                "item_count": 15736,
+                "avg_price": 62,
+                "timestamp": "2021-08-13T21:00:00"
+            },
+            {
+                "item_count": 19093,
+                "avg_price": 61,
+                "timestamp": "2021-08-13T22:00:00"
+            },
+            {
+                "item_count": 13058,
+                "avg_price": 60,
+                "timestamp": "2021-08-13T23:00:00"
+            },
+            {
+                "item_count": 14602,
+                "avg_price": 60,
+                "timestamp": "2021-08-14T00:00:00"
+            },
+            {
+                "item_count": 20382,
+                "avg_price": 60,
+                "timestamp": "2021-08-14T01:00:00"
+            },
+            {
+                "item_count": 13520,
+                "avg_price": 59,
+                "timestamp": "2021-08-14T02:00:00"
+            },
+            {
+                "item_count": 22683,
+                "avg_price": 55,
+                "timestamp": "2021-08-14T03:00:00"
+            },
+            {
+                "item_count": 15684,
+                "avg_price": 55,
+                "timestamp": "2021-08-14T04:00:00"
+            },
+            {
+                "item_count": 12082,
+                "avg_price": 56,
+                "timestamp": "2021-08-14T05:00:00"
+            },
+            {
+                "item_count": 22810,
+                "avg_price": 56,
+                "timestamp": "2021-08-14T06:00:00"
+            },
+            {
+                "item_count": 21186,
+                "avg_price": 57,
+                "timestamp": "2021-08-14T07:00:00"
+            },
+            {
+                "item_count": 11193,
+                "avg_price": 54,
+                "timestamp": "2021-08-14T08:00:00"
+            },
+            {
+                "item_count": 33147,
+                "avg_price": 57,
+                "timestamp": "2021-08-14T09:00:00"
+            },
+            {
+                "item_count": 7477,
+                "avg_price": 55,
+                "timestamp": "2021-08-14T10:00:00"
+            },
+            {
+                "item_count": 43698,
+                "avg_price": 60,
+                "timestamp": "2021-08-14T11:00:00"
+            },
+            {
+                "item_count": 16403,
+                "avg_price": 56,
+                "timestamp": "2021-08-14T12:00:00"
+            },
+            {
+                "item_count": 27308,
+                "avg_price": 58,
+                "timestamp": "2021-08-14T13:00:00"
+            },
+            {
+                "item_count": 12304,
+                "avg_price": 56,
+                "timestamp": "2021-08-14T14:00:00"
+            },
+            {
+                "item_count": 36050,
+                "avg_price": 54,
+                "timestamp": "2021-08-14T15:00:00"
+            },
+            {
+                "item_count": 22127,
+                "avg_price": 56,
+                "timestamp": "2021-08-14T16:00:00"
+            },
+            {
+                "item_count": 12524,
+                "avg_price": 58,
+                "timestamp": "2021-08-14T17:00:00"
+            },
+            {
+                "item_count": 26389,
+                "avg_price": 58,
+                "timestamp": "2021-08-14T18:00:00"
+            },
+            {
+                "item_count": 23581,
+                "avg_price": 59,
+                "timestamp": "2021-08-14T19:00:00"
+            },
+            {
+                "item_count": 27017,
+                "avg_price": 59,
+                "timestamp": "2021-08-14T20:00:00"
+            },
+            {
+                "item_count": 14700,
+                "avg_price": 58,
+                "timestamp": "2021-08-14T21:00:00"
+            },
+            {
+                "item_count": 21424,
+                "avg_price": 59,
+                "timestamp": "2021-08-14T22:00:00"
+            },
+            {
+                "item_count": 36173,
+                "avg_price": 61,
+                "timestamp": "2021-08-14T23:00:00"
+            },
+            {
+                "item_count": 17018,
+                "avg_price": 58,
+                "timestamp": "2021-08-15T00:00:00"
+            },
+            {
+                "item_count": 15244,
+                "avg_price": 57,
+                "timestamp": "2021-08-15T01:00:00"
+            },
+            {
+                "item_count": 23593,
+                "avg_price": 57,
+                "timestamp": "2021-08-15T02:00:00"
+            },
+            {
+                "item_count": 41036,
+                "avg_price": 59,
+                "timestamp": "2021-08-15T03:00:00"
+            },
+            {
+                "item_count": 23592,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T04:00:00"
+            },
+            {
+                "item_count": 15358,
+                "avg_price": 58,
+                "timestamp": "2021-08-15T05:00:00"
+            },
+            {
+                "item_count": 24248,
+                "avg_price": 59,
+                "timestamp": "2021-08-15T06:00:00"
+            },
+            {
+                "item_count": 15560,
+                "avg_price": 58,
+                "timestamp": "2021-08-15T07:00:00"
+            },
+            {
+                "item_count": 34975,
+                "avg_price": 75,
+                "timestamp": "2021-08-15T08:00:00"
+            },
+            {
+                "item_count": 10846,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T09:00:00"
+            },
+            {
+                "item_count": 3156,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T10:00:00"
+            },
+            {
+                "item_count": 25679,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T11:00:00"
+            },
+            {
+                "item_count": 16716,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T12:00:00"
+            },
+            {
+                "item_count": 18167,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T13:00:00"
+            },
+            {
+                "item_count": 32558,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T14:00:00"
+            },
+            {
+                "item_count": 28607,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T15:00:00"
+            },
+            {
+                "item_count": 31576,
+                "avg_price": 58,
+                "timestamp": "2021-08-15T16:00:00"
+            },
+            {
+                "item_count": 21130,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T17:00:00"
+            },
+            {
+                "item_count": 18629,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T18:00:00"
+            },
+            {
+                "item_count": 27503,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T19:00:00"
+            },
+            {
+                "item_count": 30897,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T20:00:00"
+            },
+            {
+                "item_count": 19535,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T21:00:00"
+            },
+            {
+                "item_count": 17946,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T22:00:00"
+            },
+            {
+                "item_count": 17589,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T23:00:00"
+            },
+            {
+                "item_count": 17244,
+                "avg_price": 55,
+                "timestamp": "2021-08-16T00:00:00"
+            }
+        ]
+    },
+    {
+        "location": "Lymhurst",
+        "item_id": "T4_ORE",
+        "quality": 1,
+        "data": [
+            {
+                "item_count": 6293,
+                "avg_price": 47,
+                "timestamp": "2021-08-09T19:00:00"
+            },
+            {
+                "item_count": 2760,
+                "avg_price": 47,
+                "timestamp": "2021-08-09T20:00:00"
+            },
+            {
+                "item_count": 2225,
+                "avg_price": 48,
+                "timestamp": "2021-08-09T21:00:00"
+            },
+            {
+                "item_count": 1322,
+                "avg_price": 48,
+                "timestamp": "2021-08-09T22:00:00"
+            },
+            {
+                "item_count": 15396,
+                "avg_price": 49,
+                "timestamp": "2021-08-11T12:00:00"
+            },
+            {
+                "item_count": 2525,
+                "avg_price": 49,
+                "timestamp": "2021-08-11T13:00:00"
+            },
+            {
+                "item_count": 1293,
+                "avg_price": 48,
+                "timestamp": "2021-08-11T14:00:00"
+            },
+            {
+                "item_count": 1698,
+                "avg_price": 48,
+                "timestamp": "2021-08-11T15:00:00"
+            },
+            {
+                "item_count": 2521,
+                "avg_price": 48,
+                "timestamp": "2021-08-11T16:00:00"
+            },
+            {
+                "item_count": 6389,
+                "avg_price": 49,
+                "timestamp": "2021-08-11T17:00:00"
+            },
+            {
+                "item_count": 18621,
+                "avg_price": 51,
+                "timestamp": "2021-08-11T18:00:00"
+            },
+            {
+                "item_count": 2163,
+                "avg_price": 48,
+                "timestamp": "2021-08-11T19:00:00"
+            },
+            {
+                "item_count": 4102,
+                "avg_price": 54,
+                "timestamp": "2021-08-11T20:00:00"
+            },
+            {
+                "item_count": 3012,
+                "avg_price": 49,
+                "timestamp": "2021-08-11T21:00:00"
+            },
+            {
+                "item_count": 4892,
+                "avg_price": 49,
+                "timestamp": "2021-08-11T22:00:00"
+            },
+            {
+                "item_count": 1543,
+                "avg_price": 48,
+                "timestamp": "2021-08-11T23:00:00"
+            },
+            {
+                "item_count": 2848,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T00:00:00"
+            },
+            {
+                "item_count": 4252,
+                "avg_price": 47,
+                "timestamp": "2021-08-12T01:00:00"
+            },
+            {
+                "item_count": 2057,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T02:00:00"
+            },
+            {
+                "item_count": 1406,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T03:00:00"
+            },
+            {
+                "item_count": 1595,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T04:00:00"
+            },
+            {
+                "item_count": 5314,
+                "avg_price": 53,
+                "timestamp": "2021-08-12T05:00:00"
+            },
+            {
+                "item_count": 1066,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T06:00:00"
+            },
+            {
+                "item_count": 1829,
+                "avg_price": 50,
+                "timestamp": "2021-08-12T07:00:00"
+            },
+            {
+                "item_count": 2978,
+                "avg_price": 63,
+                "timestamp": "2021-08-12T08:00:00"
+            },
+            {
+                "item_count": 469,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T09:00:00"
+            },
+            {
+                "item_count": 460,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T10:00:00"
+            },
+            {
+                "item_count": 1720,
+                "avg_price": 50,
+                "timestamp": "2021-08-12T11:00:00"
+            },
+            {
+                "item_count": 10704,
+                "avg_price": 65,
+                "timestamp": "2021-08-12T12:00:00"
+            },
+            {
+                "item_count": 1810,
+                "avg_price": 50,
+                "timestamp": "2021-08-12T13:00:00"
+            },
+            {
+                "item_count": 1746,
+                "avg_price": 57,
+                "timestamp": "2021-08-12T14:00:00"
+            },
+            {
+                "item_count": 1779,
+                "avg_price": 51,
+                "timestamp": "2021-08-12T15:00:00"
+            },
+            {
+                "item_count": 3147,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T16:00:00"
+            },
+            {
+                "item_count": 1904,
+                "avg_price": 50,
+                "timestamp": "2021-08-12T17:00:00"
+            },
+            {
+                "item_count": 8194,
+                "avg_price": 52,
+                "timestamp": "2021-08-12T18:00:00"
+            },
+            {
+                "item_count": 2977,
+                "avg_price": 55,
+                "timestamp": "2021-08-12T19:00:00"
+            },
+            {
+                "item_count": 1166,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T20:00:00"
+            },
+            {
+                "item_count": 2240,
+                "avg_price": 50,
+                "timestamp": "2021-08-12T21:00:00"
+            },
+            {
+                "item_count": 2062,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T22:00:00"
+            },
+            {
+                "item_count": 353,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T23:00:00"
+            },
+            {
+                "item_count": 2183,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T00:00:00"
+            },
+            {
+                "item_count": 2335,
+                "avg_price": 49,
+                "timestamp": "2021-08-13T01:00:00"
+            },
+            {
+                "item_count": 4935,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T02:00:00"
+            },
+            {
+                "item_count": 643,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T03:00:00"
+            },
+            {
+                "item_count": 1617,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T04:00:00"
+            },
+            {
+                "item_count": 603,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T05:00:00"
+            },
+            {
+                "item_count": 763,
+                "avg_price": 50,
+                "timestamp": "2021-08-13T06:00:00"
+            },
+            {
+                "item_count": 527,
+                "avg_price": 50,
+                "timestamp": "2021-08-13T07:00:00"
+            },
+            {
+                "item_count": 1672,
+                "avg_price": 52,
+                "timestamp": "2021-08-13T08:00:00"
+            },
+            {
+                "item_count": 2526,
+                "avg_price": 50,
+                "timestamp": "2021-08-13T09:00:00"
+            },
+            {
+                "item_count": 78,
+                "avg_price": 50,
+                "timestamp": "2021-08-13T10:00:00"
+            },
+            {
+                "item_count": 1027,
+                "avg_price": 50,
+                "timestamp": "2021-08-13T11:00:00"
+            },
+            {
+                "item_count": 6398,
+                "avg_price": 49,
+                "timestamp": "2021-08-13T12:00:00"
+            },
+            {
+                "item_count": 1838,
+                "avg_price": 50,
+                "timestamp": "2021-08-13T13:00:00"
+            },
+            {
+                "item_count": 3973,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T14:00:00"
+            },
+            {
+                "item_count": 4862,
+                "avg_price": 50,
+                "timestamp": "2021-08-13T15:00:00"
+            },
+            {
+                "item_count": 5689,
+                "avg_price": 50,
+                "timestamp": "2021-08-13T16:00:00"
+            },
+            {
+                "item_count": 2234,
+                "avg_price": 49,
+                "timestamp": "2021-08-13T17:00:00"
+            },
+            {
+                "item_count": 10431,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T18:00:00"
+            },
+            {
+                "item_count": 3332,
+                "avg_price": 54,
+                "timestamp": "2021-08-13T19:00:00"
+            },
+            {
+                "item_count": 2034,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T20:00:00"
+            },
+            {
+                "item_count": 2893,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T21:00:00"
+            },
+            {
+                "item_count": 3694,
+                "avg_price": 52,
+                "timestamp": "2021-08-13T22:00:00"
+            },
+            {
+                "item_count": 515,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T23:00:00"
+            },
+            {
+                "item_count": 11324,
+                "avg_price": 51,
+                "timestamp": "2021-08-14T00:00:00"
+            },
+            {
+                "item_count": 5796,
+                "avg_price": 57,
+                "timestamp": "2021-08-14T01:00:00"
+            },
+            {
+                "item_count": 1003,
+                "avg_price": 51,
+                "timestamp": "2021-08-14T02:00:00"
+            },
+            {
+                "item_count": 1496,
+                "avg_price": 51,
+                "timestamp": "2021-08-14T03:00:00"
+            },
+            {
+                "item_count": 794,
+                "avg_price": 52,
+                "timestamp": "2021-08-14T04:00:00"
+            },
+            {
+                "item_count": 1068,
+                "avg_price": 52,
+                "timestamp": "2021-08-14T05:00:00"
+            },
+            {
+                "item_count": 4368,
+                "avg_price": 53,
+                "timestamp": "2021-08-14T06:00:00"
+            },
+            {
+                "item_count": 703,
+                "avg_price": 55,
+                "timestamp": "2021-08-14T07:00:00"
+            },
+            {
+                "item_count": 1597,
+                "avg_price": 55,
+                "timestamp": "2021-08-14T08:00:00"
+            },
+            {
+                "item_count": 10485,
+                "avg_price": 60,
+                "timestamp": "2021-08-14T09:00:00"
+            },
+            {
+                "item_count": 26,
+                "avg_price": 62,
+                "timestamp": "2021-08-14T10:00:00"
+            },
+            {
+                "item_count": 3166,
+                "avg_price": 58,
+                "timestamp": "2021-08-14T11:00:00"
+            },
+            {
+                "item_count": 3589,
+                "avg_price": 51,
+                "timestamp": "2021-08-14T12:00:00"
+            },
+            {
+                "item_count": 2743,
+                "avg_price": 51,
+                "timestamp": "2021-08-14T13:00:00"
+            },
+            {
+                "item_count": 2726,
+                "avg_price": 51,
+                "timestamp": "2021-08-14T14:00:00"
+            },
+            {
+                "item_count": 1537,
+                "avg_price": 50,
+                "timestamp": "2021-08-14T15:00:00"
+            },
+            {
+                "item_count": 2181,
+                "avg_price": 49,
+                "timestamp": "2021-08-14T16:00:00"
+            },
+            {
+                "item_count": 1112,
+                "avg_price": 49,
+                "timestamp": "2021-08-14T17:00:00"
+            },
+            {
+                "item_count": 7708,
+                "avg_price": 51,
+                "timestamp": "2021-08-14T18:00:00"
+            },
+            {
+                "item_count": 921,
+                "avg_price": 51,
+                "timestamp": "2021-08-14T19:00:00"
+            },
+            {
+                "item_count": 3690,
+                "avg_price": 50,
+                "timestamp": "2021-08-14T20:00:00"
+            },
+            {
+                "item_count": 2495,
+                "avg_price": 50,
+                "timestamp": "2021-08-14T21:00:00"
+            },
+            {
+                "item_count": 354,
+                "avg_price": 51,
+                "timestamp": "2021-08-14T22:00:00"
+            },
+            {
+                "item_count": 1051,
+                "avg_price": 50,
+                "timestamp": "2021-08-14T23:00:00"
+            },
+            {
+                "item_count": 2479,
+                "avg_price": 52,
+                "timestamp": "2021-08-15T00:00:00"
+            },
+            {
+                "item_count": 2281,
+                "avg_price": 50,
+                "timestamp": "2021-08-15T01:00:00"
+            },
+            {
+                "item_count": 266,
+                "avg_price": 50,
+                "timestamp": "2021-08-15T02:00:00"
+            },
+            {
+                "item_count": 1191,
+                "avg_price": 50,
+                "timestamp": "2021-08-15T03:00:00"
+            },
+            {
+                "item_count": 1412,
+                "avg_price": 50,
+                "timestamp": "2021-08-15T04:00:00"
+            },
+            {
+                "item_count": 1653,
+                "avg_price": 50,
+                "timestamp": "2021-08-15T05:00:00"
+            },
+            {
+                "item_count": 3346,
+                "avg_price": 50,
+                "timestamp": "2021-08-15T06:00:00"
+            },
+            {
+                "item_count": 18835,
+                "avg_price": 69,
+                "timestamp": "2021-08-15T07:00:00"
+            },
+            {
+                "item_count": 3234,
+                "avg_price": 50,
+                "timestamp": "2021-08-15T08:00:00"
+            },
+            {
+                "item_count": 1439,
+                "avg_price": 52,
+                "timestamp": "2021-08-15T09:00:00"
+            },
+            {
+                "item_count": 503,
+                "avg_price": 54,
+                "timestamp": "2021-08-15T10:00:00"
+            },
+            {
+                "item_count": 2787,
+                "avg_price": 54,
+                "timestamp": "2021-08-15T11:00:00"
+            },
+            {
+                "item_count": 4089,
+                "avg_price": 54,
+                "timestamp": "2021-08-15T12:00:00"
+            },
+            {
+                "item_count": 1733,
+                "avg_price": 52,
+                "timestamp": "2021-08-15T13:00:00"
+            },
+            {
+                "item_count": 1589,
+                "avg_price": 52,
+                "timestamp": "2021-08-15T14:00:00"
+            },
+            {
+                "item_count": 1687,
+                "avg_price": 53,
+                "timestamp": "2021-08-15T15:00:00"
+            },
+            {
+                "item_count": 1647,
+                "avg_price": 53,
+                "timestamp": "2021-08-15T16:00:00"
+            },
+            {
+                "item_count": 5879,
+                "avg_price": 54,
+                "timestamp": "2021-08-15T17:00:00"
+            },
+            {
+                "item_count": 1516,
+                "avg_price": 54,
+                "timestamp": "2021-08-15T18:00:00"
+            },
+            {
+                "item_count": 1021,
+                "avg_price": 54,
+                "timestamp": "2021-08-15T19:00:00"
+            },
+            {
+                "item_count": 1308,
+                "avg_price": 53,
+                "timestamp": "2021-08-15T20:00:00"
+            }
+        ]
+    },
+    {
+        "location": "Martlock",
+        "item_id": "T4_ORE",
+        "quality": 1,
+        "data": [
+            {
+                "item_count": 13727,
+                "avg_price": 49,
+                "timestamp": "2021-08-09T19:00:00"
+            },
+            {
+                "item_count": 6029,
+                "avg_price": 50,
+                "timestamp": "2021-08-09T20:00:00"
+            },
+            {
+                "item_count": 8902,
+                "avg_price": 50,
+                "timestamp": "2021-08-09T21:00:00"
+            },
+            {
+                "item_count": 7623,
+                "avg_price": 48,
+                "timestamp": "2021-08-09T22:00:00"
+            },
+            {
+                "item_count": 6508,
+                "avg_price": 49,
+                "timestamp": "2021-08-09T23:00:00"
+            },
+            {
+                "item_count": 4020,
+                "avg_price": 49,
+                "timestamp": "2021-08-10T00:00:00"
+            },
+            {
+                "item_count": 10402,
+                "avg_price": 49,
+                "timestamp": "2021-08-10T01:00:00"
+            },
+            {
+                "item_count": 15052,
+                "avg_price": 49,
+                "timestamp": "2021-08-10T02:00:00"
+            },
+            {
+                "item_count": 4457,
+                "avg_price": 50,
+                "timestamp": "2021-08-10T03:00:00"
+            },
+            {
+                "item_count": 5928,
+                "avg_price": 50,
+                "timestamp": "2021-08-10T04:00:00"
+            },
+            {
+                "item_count": 7348,
+                "avg_price": 50,
+                "timestamp": "2021-08-10T05:00:00"
+            },
+            {
+                "item_count": 10427,
+                "avg_price": 50,
+                "timestamp": "2021-08-10T06:00:00"
+            },
+            {
+                "item_count": 5198,
+                "avg_price": 48,
+                "timestamp": "2021-08-10T07:00:00"
+            },
+            {
+                "item_count": 10613,
+                "avg_price": 49,
+                "timestamp": "2021-08-10T08:00:00"
+            },
+            {
+                "item_count": 7491,
+                "avg_price": 49,
+                "timestamp": "2021-08-10T09:00:00"
+            },
+            {
+                "item_count": 1396,
+                "avg_price": 50,
+                "timestamp": "2021-08-10T10:00:00"
+            },
+            {
+                "item_count": 8035,
+                "avg_price": 49,
+                "timestamp": "2021-08-10T11:00:00"
+            },
+            {
+                "item_count": 18022,
+                "avg_price": 51,
+                "timestamp": "2021-08-10T12:00:00"
+            },
+            {
+                "item_count": 13464,
+                "avg_price": 53,
+                "timestamp": "2021-08-10T13:00:00"
+            },
+            {
+                "item_count": 13234,
+                "avg_price": 49,
+                "timestamp": "2021-08-10T14:00:00"
+            },
+            {
+                "item_count": 8142,
+                "avg_price": 50,
+                "timestamp": "2021-08-10T15:00:00"
+            },
+            {
+                "item_count": 19280,
+                "avg_price": 52,
+                "timestamp": "2021-08-10T16:00:00"
+            },
+            {
+                "item_count": 11197,
+                "avg_price": 49,
+                "timestamp": "2021-08-10T17:00:00"
+            },
+            {
+                "item_count": 14860,
+                "avg_price": 48,
+                "timestamp": "2021-08-10T18:00:00"
+            },
+            {
+                "item_count": 9677,
+                "avg_price": 48,
+                "timestamp": "2021-08-10T19:00:00"
+            },
+            {
+                "item_count": 19655,
+                "avg_price": 50,
+                "timestamp": "2021-08-10T20:00:00"
+            },
+            {
+                "item_count": 10299,
+                "avg_price": 50,
+                "timestamp": "2021-08-10T21:00:00"
+            },
+            {
+                "item_count": 7806,
+                "avg_price": 51,
+                "timestamp": "2021-08-10T22:00:00"
+            },
+            {
+                "item_count": 5083,
+                "avg_price": 51,
+                "timestamp": "2021-08-10T23:00:00"
+            },
+            {
+                "item_count": 10016,
+                "avg_price": 51,
+                "timestamp": "2021-08-11T00:00:00"
+            },
+            {
+                "item_count": 15391,
+                "avg_price": 47,
+                "timestamp": "2021-08-11T01:00:00"
+            },
+            {
+                "item_count": 10735,
+                "avg_price": 48,
+                "timestamp": "2021-08-11T02:00:00"
+            },
+            {
+                "item_count": 7400,
+                "avg_price": 47,
+                "timestamp": "2021-08-11T03:00:00"
+            },
+            {
+                "item_count": 22840,
+                "avg_price": 57,
+                "timestamp": "2021-08-11T04:00:00"
+            },
+            {
+                "item_count": 6432,
+                "avg_price": 49,
+                "timestamp": "2021-08-11T05:00:00"
+            },
+            {
+                "item_count": 4251,
+                "avg_price": 47,
+                "timestamp": "2021-08-11T06:00:00"
+            },
+            {
+                "item_count": 5336,
+                "avg_price": 47,
+                "timestamp": "2021-08-11T07:00:00"
+            },
+            {
+                "item_count": 26492,
+                "avg_price": 59,
+                "timestamp": "2021-08-11T08:00:00"
+            },
+            {
+                "item_count": 8575,
+                "avg_price": 47,
+                "timestamp": "2021-08-11T09:00:00"
+            },
+            {
+                "item_count": 414,
+                "avg_price": 46,
+                "timestamp": "2021-08-11T10:00:00"
+            },
+            {
+                "item_count": 8341,
+                "avg_price": 54,
+                "timestamp": "2021-08-11T11:00:00"
+            },
+            {
+                "item_count": 7371,
+                "avg_price": 47,
+                "timestamp": "2021-08-11T12:00:00"
+            },
+            {
+                "item_count": 10204,
+                "avg_price": 50,
+                "timestamp": "2021-08-11T13:00:00"
+            },
+            {
+                "item_count": 11780,
+                "avg_price": 51,
+                "timestamp": "2021-08-11T21:00:00"
+            },
+            {
+                "item_count": 12135,
+                "avg_price": 51,
+                "timestamp": "2021-08-11T22:00:00"
+            },
+            {
+                "item_count": 9605,
+                "avg_price": 50,
+                "timestamp": "2021-08-11T23:00:00"
+            },
+            {
+                "item_count": 8607,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T00:00:00"
+            },
+            {
+                "item_count": 7317,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T01:00:00"
+            },
+            {
+                "item_count": 16483,
+                "avg_price": 50,
+                "timestamp": "2021-08-12T02:00:00"
+            },
+            {
+                "item_count": 11231,
+                "avg_price": 52,
+                "timestamp": "2021-08-12T03:00:00"
+            },
+            {
+                "item_count": 5360,
+                "avg_price": 50,
+                "timestamp": "2021-08-12T04:00:00"
+            },
+            {
+                "item_count": 4921,
+                "avg_price": 52,
+                "timestamp": "2021-08-12T05:00:00"
+            },
+            {
+                "item_count": 15197,
+                "avg_price": 52,
+                "timestamp": "2021-08-12T06:00:00"
+            },
+            {
+                "item_count": 3947,
+                "avg_price": 46,
+                "timestamp": "2021-08-12T07:00:00"
+            },
+            {
+                "item_count": 9714,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T08:00:00"
+            },
+            {
+                "item_count": 10981,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T09:00:00"
+            },
+            {
+                "item_count": 1338,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T10:00:00"
+            },
+            {
+                "item_count": 6836,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T11:00:00"
+            },
+            {
+                "item_count": 7960,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T12:00:00"
+            },
+            {
+                "item_count": 16355,
+                "avg_price": 50,
+                "timestamp": "2021-08-12T13:00:00"
+            },
+            {
+                "item_count": 12507,
+                "avg_price": 52,
+                "timestamp": "2021-08-12T14:00:00"
+            },
+            {
+                "item_count": 11974,
+                "avg_price": 51,
+                "timestamp": "2021-08-12T15:00:00"
+            },
+            {
+                "item_count": 5418,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T16:00:00"
+            },
+            {
+                "item_count": 8982,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T17:00:00"
+            },
+            {
+                "item_count": 6755,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T18:00:00"
+            },
+            {
+                "item_count": 5957,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T19:00:00"
+            },
+            {
+                "item_count": 15077,
+                "avg_price": 49,
+                "timestamp": "2021-08-12T20:00:00"
+            },
+            {
+                "item_count": 14552,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T21:00:00"
+            },
+            {
+                "item_count": 11355,
+                "avg_price": 47,
+                "timestamp": "2021-08-12T22:00:00"
+            },
+            {
+                "item_count": 6486,
+                "avg_price": 48,
+                "timestamp": "2021-08-12T23:00:00"
+            },
+            {
+                "item_count": 12864,
+                "avg_price": 50,
+                "timestamp": "2021-08-13T00:00:00"
+            },
+            {
+                "item_count": 8779,
+                "avg_price": 52,
+                "timestamp": "2021-08-13T01:00:00"
+            },
+            {
+                "item_count": 6698,
+                "avg_price": 53,
+                "timestamp": "2021-08-13T02:00:00"
+            },
+            {
+                "item_count": 5982,
+                "avg_price": 52,
+                "timestamp": "2021-08-13T03:00:00"
+            },
+            {
+                "item_count": 10774,
+                "avg_price": 52,
+                "timestamp": "2021-08-13T04:00:00"
+            },
+            {
+                "item_count": 8878,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T05:00:00"
+            },
+            {
+                "item_count": 7585,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T06:00:00"
+            },
+            {
+                "item_count": 17813,
+                "avg_price": 47,
+                "timestamp": "2021-08-13T07:00:00"
+            },
+            {
+                "item_count": 10468,
+                "avg_price": 48,
+                "timestamp": "2021-08-13T08:00:00"
+            },
+            {
+                "item_count": 12358,
+                "avg_price": 52,
+                "timestamp": "2021-08-13T09:00:00"
+            },
+            {
+                "item_count": 1348,
+                "avg_price": 48,
+                "timestamp": "2021-08-13T10:00:00"
+            },
+            {
+                "item_count": 6027,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T11:00:00"
+            },
+            {
+                "item_count": 12034,
+                "avg_price": 49,
+                "timestamp": "2021-08-13T12:00:00"
+            },
+            {
+                "item_count": 9076,
+                "avg_price": 52,
+                "timestamp": "2021-08-13T13:00:00"
+            },
+            {
+                "item_count": 7999,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T14:00:00"
+            },
+            {
+                "item_count": 14736,
+                "avg_price": 58,
+                "timestamp": "2021-08-13T15:00:00"
+            },
+            {
+                "item_count": 7374,
+                "avg_price": 55,
+                "timestamp": "2021-08-13T16:00:00"
+            },
+            {
+                "item_count": 8568,
+                "avg_price": 51,
+                "timestamp": "2021-08-13T17:00:00"
+            },
+            {
+                "item_count": 6283,
+                "avg_price": 50,
+                "timestamp": "2021-08-13T18:00:00"
+            },
+            {
+                "item_count": 6825,
+                "avg_price": 52,
+                "timestamp": "2021-08-13T19:00:00"
+            },
+            {
+                "item_count": 15378,
+                "avg_price": 53,
+                "timestamp": "2021-08-13T20:00:00"
+            },
+            {
+                "item_count": 5418,
+                "avg_price": 53,
+                "timestamp": "2021-08-13T21:00:00"
+            },
+            {
+                "item_count": 8823,
+                "avg_price": 53,
+                "timestamp": "2021-08-13T22:00:00"
+            },
+            {
+                "item_count": 7781,
+                "avg_price": 53,
+                "timestamp": "2021-08-13T23:00:00"
+            },
+            {
+                "item_count": 13324,
+                "avg_price": 51,
+                "timestamp": "2021-08-14T00:00:00"
+            },
+            {
+                "item_count": 6210,
+                "avg_price": 53,
+                "timestamp": "2021-08-14T01:00:00"
+            },
+            {
+                "item_count": 9056,
+                "avg_price": 54,
+                "timestamp": "2021-08-14T02:00:00"
+            },
+            {
+                "item_count": 6548,
+                "avg_price": 55,
+                "timestamp": "2021-08-14T03:00:00"
+            },
+            {
+                "item_count": 24988,
+                "avg_price": 58,
+                "timestamp": "2021-08-14T04:00:00"
+            },
+            {
+                "item_count": 5536,
+                "avg_price": 55,
+                "timestamp": "2021-08-14T05:00:00"
+            },
+            {
+                "item_count": 7741,
+                "avg_price": 56,
+                "timestamp": "2021-08-14T06:00:00"
+            },
+            {
+                "item_count": 8051,
+                "avg_price": 55,
+                "timestamp": "2021-08-14T07:00:00"
+            },
+            {
+                "item_count": 5345,
+                "avg_price": 55,
+                "timestamp": "2021-08-14T08:00:00"
+            },
+            {
+                "item_count": 6250,
+                "avg_price": 55,
+                "timestamp": "2021-08-14T09:00:00"
+            },
+            {
+                "item_count": 4842,
+                "avg_price": 59,
+                "timestamp": "2021-08-14T10:00:00"
+            },
+            {
+                "item_count": 8278,
+                "avg_price": 57,
+                "timestamp": "2021-08-14T11:00:00"
+            },
+            {
+                "item_count": 3729,
+                "avg_price": 54,
+                "timestamp": "2021-08-14T12:00:00"
+            },
+            {
+                "item_count": 11635,
+                "avg_price": 54,
+                "timestamp": "2021-08-14T13:00:00"
+            },
+            {
+                "item_count": 8254,
+                "avg_price": 53,
+                "timestamp": "2021-08-14T14:00:00"
+            },
+            {
+                "item_count": 7232,
+                "avg_price": 51,
+                "timestamp": "2021-08-14T15:00:00"
+            },
+            {
+                "item_count": 11067,
+                "avg_price": 52,
+                "timestamp": "2021-08-14T16:00:00"
+            },
+            {
+                "item_count": 7888,
+                "avg_price": 54,
+                "timestamp": "2021-08-14T17:00:00"
+            },
+            {
+                "item_count": 11922,
+                "avg_price": 54,
+                "timestamp": "2021-08-14T18:00:00"
+            },
+            {
+                "item_count": 10432,
+                "avg_price": 53,
+                "timestamp": "2021-08-14T19:00:00"
+            },
+            {
+                "item_count": 8354,
+                "avg_price": 55,
+                "timestamp": "2021-08-14T20:00:00"
+            },
+            {
+                "item_count": 17066,
+                "avg_price": 54,
+                "timestamp": "2021-08-14T21:00:00"
+            },
+            {
+                "item_count": 4921,
+                "avg_price": 52,
+                "timestamp": "2021-08-14T22:00:00"
+            },
+            {
+                "item_count": 3495,
+                "avg_price": 52,
+                "timestamp": "2021-08-14T23:00:00"
+            },
+            {
+                "item_count": 10629,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T00:00:00"
+            },
+            {
+                "item_count": 8417,
+                "avg_price": 53,
+                "timestamp": "2021-08-15T01:00:00"
+            },
+            {
+                "item_count": 8487,
+                "avg_price": 54,
+                "timestamp": "2021-08-15T02:00:00"
+            },
+            {
+                "item_count": 7829,
+                "avg_price": 57,
+                "timestamp": "2021-08-15T03:00:00"
+            },
+            {
+                "item_count": 9349,
+                "avg_price": 54,
+                "timestamp": "2021-08-15T04:00:00"
+            },
+            {
+                "item_count": 6948,
+                "avg_price": 55,
+                "timestamp": "2021-08-15T05:00:00"
+            },
+            {
+                "item_count": 9657,
+                "avg_price": 53,
+                "timestamp": "2021-08-15T06:00:00"
+            },
+            {
+                "item_count": 8635,
+                "avg_price": 52,
+                "timestamp": "2021-08-15T07:00:00"
+            },
+            {
+                "item_count": 11767,
+                "avg_price": 53,
+                "timestamp": "2021-08-15T08:00:00"
+            },
+            {
+                "item_count": 34748,
+                "avg_price": 87,
+                "timestamp": "2021-08-15T09:00:00"
+            },
+            {
+                "item_count": 456,
+                "avg_price": 53,
+                "timestamp": "2021-08-15T10:00:00"
+            },
+            {
+                "item_count": 7004,
+                "avg_price": 53,
+                "timestamp": "2021-08-15T11:00:00"
+            },
+            {
+                "item_count": 11669,
+                "avg_price": 55,
+                "timestamp": "2021-08-15T12:00:00"
+            },
+            {
+                "item_count": 9826,
+                "avg_price": 57,
+                "timestamp": "2021-08-15T13:00:00"
+            },
+            {
+                "item_count": 9944,
+                "avg_price": 64,
+                "timestamp": "2021-08-15T14:00:00"
+            },
+            {
+                "item_count": 15232,
+                "avg_price": 57,
+                "timestamp": "2021-08-15T15:00:00"
+            },
+            {
+                "item_count": 10440,
+                "avg_price": 57,
+                "timestamp": "2021-08-15T16:00:00"
+            },
+            {
+                "item_count": 17981,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T17:00:00"
+            },
+            {
+                "item_count": 9364,
+                "avg_price": 56,
+                "timestamp": "2021-08-15T18:00:00"
+            }
+        ]
+    },
+    {
+        "location": "Thetford",
+        "item_id": "T4_ORE",
+        "quality": 1,
+        "data": [
+            {
+                "item_count": 6158,
+                "avg_price": 54,
+                "timestamp": "2021-08-09T19:00:00"
+            },
+            {
+                "item_count": 3458,
+                "avg_price": 53,
+                "timestamp": "2021-08-09T20:00:00"
+            },
+            {
+                "item_count": 5972,
+                "avg_price": 54,
+                "timestamp": "2021-08-09T21:00:00"
+            },
+            {
+                "item_count": 8078,
+                "avg_price": 57,
+                "timestamp": "2021-08-09T22:00:00"
+            },
+            {
+                "item_count": 6815,
+                "avg_price": 56,
+                "timestamp": "2021-08-09T23:00:00"
+            },
+            {
+                "item_count": 7696,
+                "avg_price": 56,
+                "timestamp": "2021-08-10T00:00:00"
+            },
+            {
+                "item_count": 4059,
+                "avg_price": 55,
+                "timestamp": "2021-08-10T01:00:00"
+            },
+            {
+                "item_count": 3265,
+                "avg_price": 55,
+                "timestamp": "2021-08-10T02:00:00"
+            },
+            {
+                "item_count": 2470,
+                "avg_price": 55,
+                "timestamp": "2021-08-10T03:00:00"
+            },
+            {
+                "item_count": 16881,
+                "avg_price": 59,
+                "timestamp": "2021-08-10T04:00:00"
+            },
+            {
+                "item_count": 4781,
+                "avg_price": 56,
+                "timestamp": "2021-08-10T05:00:00"
+            },
+            {
+                "item_count": 3073,
+                "avg_price": 56,
+                "timestamp": "2021-08-10T06:00:00"
+            },
+            {
+                "item_count": 7212,
+                "avg_price": 58,
+                "timestamp": "2021-08-10T07:00:00"
+            },
+            {
+                "item_count": 49039,
+                "avg_price": 64,
+                "timestamp": "2021-08-10T08:00:00"
+            },
+            {
+                "item_count": 6634,
+                "avg_price": 62,
+                "timestamp": "2021-08-10T09:00:00"
+            },
+            {
+                "item_count": 5070,
+                "avg_price": 91,
+                "timestamp": "2021-08-10T10:00:00"
+            },
+            {
+                "item_count": 3439,
+                "avg_price": 71,
+                "timestamp": "2021-08-10T11:00:00"
+            },
+            {
+                "item_count": 10504,
+                "avg_price": 64,
+                "timestamp": "2021-08-10T12:00:00"
+            },
+            {
+                "item_count": 4143,
+                "avg_price": 58,
+                "timestamp": "2021-08-10T13:00:00"
+            },
+            {
+                "item_count": 38996,
+                "avg_price": 62,
+                "timestamp": "2021-08-10T14:00:00"
+            },
+            {
+                "item_count": 4470,
+                "avg_price": 66,
+                "timestamp": "2021-08-10T15:00:00"
+            },
+            {
+                "item_count": 2205,
+                "avg_price": 60,
+                "timestamp": "2021-08-10T16:00:00"
+            },
+            {
+                "item_count": 21648,
+                "avg_price": 82,
+                "timestamp": "2021-08-10T17:00:00"
+            },
+            {
+                "item_count": 19165,
+                "avg_price": 83,
+                "timestamp": "2021-08-10T18:00:00"
+            },
+            {
+                "item_count": 13423,
+                "avg_price": 61,
+                "timestamp": "2021-08-10T19:00:00"
+            },
+            {
+                "item_count": 34894,
+                "avg_price": 82,
+                "timestamp": "2021-08-10T20:00:00"
+            },
+            {
+                "item_count": 7936,
+                "avg_price": 58,
+                "timestamp": "2021-08-10T21:00:00"
+            },
+            {
+                "item_count": 4611,
+                "avg_price": 58,
+                "timestamp": "2021-08-10T22:00:00"
+            },
+            {
+                "item_count": 9036,
+                "avg_price": 61,
+                "timestamp": "2021-08-10T23:00:00"
+            },
+            {
+                "item_count": 2567,
+                "avg_price": 59,
+                "timestamp": "2021-08-11T00:00:00"
+            },
+            {
+                "item_count": 13174,
+                "avg_price": 59,
+                "timestamp": "2021-08-11T01:00:00"
+            },
+            {
+                "item_count": 35819,
+                "avg_price": 65,
+                "timestamp": "2021-08-11T02:00:00"
+            },
+            {
+                "item_count": 6340,
+                "avg_price": 72,
+                "timestamp": "2021-08-11T03:00:00"
+            },
+            {
+                "item_count": 2682,
+                "avg_price": 70,
+                "timestamp": "2021-08-11T04:00:00"
+            },
+            {
+                "item_count": 11439,
+                "avg_price": 68,
+                "timestamp": "2021-08-11T05:00:00"
+            },
+            {
+                "item_count": 3643,
+                "avg_price": 62,
+                "timestamp": "2021-08-11T06:00:00"
+            },
+            {
+                "item_count": 3847,
+                "avg_price": 62,
+                "timestamp": "2021-08-11T07:00:00"
+            },
+            {
+                "item_count": 2102,
+                "avg_price": 57,
+                "timestamp": "2021-08-11T08:00:00"
+            },
+            {
+                "item_count": 13955,
+                "avg_price": 58,
+                "timestamp": "2021-08-11T09:00:00"
+            },
+            {
+                "item_count": 10497,
+                "avg_price": 61,
+                "timestamp": "2021-08-11T10:00:00"
+            },
+            {
+                "item_count": 14203,
+                "avg_price": 62,
+                "timestamp": "2021-08-11T11:00:00"
+            },
+            {
+                "item_count": 9327,
+                "avg_price": 63,
+                "timestamp": "2021-08-11T12:00:00"
+            },
+            {
+                "item_count": 27746,
+                "avg_price": 65,
+                "timestamp": "2021-08-11T13:00:00"
+            },
+            {
+                "item_count": 8697,
+                "avg_price": 61,
+                "timestamp": "2021-08-11T14:00:00"
+            },
+            {
+                "item_count": 9787,
+                "avg_price": 62,
+                "timestamp": "2021-08-11T15:00:00"
+            },
+            {
+                "item_count": 16731,
+                "avg_price": 60,
+                "timestamp": "2021-08-11T16:00:00"
+            },
+            {
+                "item_count": 20646,
+                "avg_price": 62,
+                "timestamp": "2021-08-11T17:00:00"
+            },
+            {
+                "item_count": 11868,
+                "avg_price": 62,
+                "timestamp": "2021-08-11T18:00:00"
+            },
+            {
+                "item_count": 12876,
+                "avg_price": 66,
+                "timestamp": "2021-08-11T19:00:00"
+            },
+            {
+                "item_count": 11975,
+                "avg_price": 62,
+                "timestamp": "2021-08-11T20:00:00"
+            },
+            {
+                "item_count": 4953,
+                "avg_price": 59,
+                "timestamp": "2021-08-11T21:00:00"
+            },
+            {
+                "item_count": 6296,
+                "avg_price": 61,
+                "timestamp": "2021-08-11T22:00:00"
+            },
+            {
+                "item_count": 16881,
+                "avg_price": 65,
+                "timestamp": "2021-08-11T23:00:00"
+            },
+            {
+                "item_count": 17483,
+                "avg_price": 67,
+                "timestamp": "2021-08-12T00:00:00"
+            },
+            {
+                "item_count": 13004,
+                "avg_price": 70,
+                "timestamp": "2021-08-12T01:00:00"
+            },
+            {
+                "item_count": 11660,
+                "avg_price": 69,
+                "timestamp": "2021-08-12T02:00:00"
+            },
+            {
+                "item_count": 5623,
+                "avg_price": 60,
+                "timestamp": "2021-08-12T03:00:00"
+            },
+            {
+                "item_count": 5162,
+                "avg_price": 59,
+                "timestamp": "2021-08-12T04:00:00"
+            },
+            {
+                "item_count": 6418,
+                "avg_price": 62,
+                "timestamp": "2021-08-12T05:00:00"
+            },
+            {
+                "item_count": 8492,
+                "avg_price": 60,
+                "timestamp": "2021-08-12T06:00:00"
+            },
+            {
+                "item_count": 3147,
+                "avg_price": 61,
+                "timestamp": "2021-08-12T07:00:00"
+            },
+            {
+                "item_count": 27021,
+                "avg_price": 67,
+                "timestamp": "2021-08-12T08:00:00"
+            },
+            {
+                "item_count": 1633,
+                "avg_price": 60,
+                "timestamp": "2021-08-12T09:00:00"
+            },
+            {
+                "item_count": 195,
+                "avg_price": 60,
+                "timestamp": "2021-08-12T10:00:00"
+            },
+            {
+                "item_count": 9022,
+                "avg_price": 62,
+                "timestamp": "2021-08-12T11:00:00"
+            },
+            {
+                "item_count": 17074,
+                "avg_price": 62,
+                "timestamp": "2021-08-12T12:00:00"
+            },
+            {
+                "item_count": 41095,
+                "avg_price": 60,
+                "timestamp": "2021-08-12T13:00:00"
+            },
+            {
+                "item_count": 2852,
+                "avg_price": 60,
+                "timestamp": "2021-08-12T14:00:00"
+            },
+            {
+                "item_count": 12709,
+                "avg_price": 60,
+                "timestamp": "2021-08-12T15:00:00"
+            },
+            {
+                "item_count": 23159,
+                "avg_price": 69,
+                "timestamp": "2021-08-12T16:00:00"
+            },
+            {
+                "item_count": 15893,
+                "avg_price": 67,
+                "timestamp": "2021-08-12T17:00:00"
+            },
+            {
+                "item_count": 26914,
+                "avg_price": 71,
+                "timestamp": "2021-08-12T18:00:00"
+            },
+            {
+                "item_count": 20773,
+                "avg_price": 61,
+                "timestamp": "2021-08-12T19:00:00"
+            },
+            {
+                "item_count": 40572,
+                "avg_price": 69,
+                "timestamp": "2021-08-12T20:00:00"
+            },
+            {
+                "item_count": 5343,
+                "avg_price": 79,
+                "timestamp": "2021-08-12T21:00:00"
+            },
+            {
+                "item_count": 6809,
+                "avg_price": 77,
+                "timestamp": "2021-08-12T22:00:00"
+            },
+            {
+                "item_count": 3615,
+                "avg_price": 70,
+                "timestamp": "2021-08-12T23:00:00"
+            },
+            {
+                "item_count": 4450,
+                "avg_price": 77,
+                "timestamp": "2021-08-13T00:00:00"
+            },
+            {
+                "item_count": 6172,
+                "avg_price": 75,
+                "timestamp": "2021-08-13T01:00:00"
+            },
+            {
+                "item_count": 6860,
+                "avg_price": 73,
+                "timestamp": "2021-08-13T02:00:00"
+            },
+            {
+                "item_count": 13667,
+                "avg_price": 70,
+                "timestamp": "2021-08-13T03:00:00"
+            },
+            {
+                "item_count": 2967,
+                "avg_price": 67,
+                "timestamp": "2021-08-13T04:00:00"
+            },
+            {
+                "item_count": 3918,
+                "avg_price": 61,
+                "timestamp": "2021-08-13T05:00:00"
+            },
+            {
+                "item_count": 25857,
+                "avg_price": 67,
+                "timestamp": "2021-08-13T06:00:00"
+            },
+            {
+                "item_count": 6536,
+                "avg_price": 70,
+                "timestamp": "2021-08-13T07:00:00"
+            },
+            {
+                "item_count": 3268,
+                "avg_price": 69,
+                "timestamp": "2021-08-13T08:00:00"
+            },
+            {
+                "item_count": 19600,
+                "avg_price": 68,
+                "timestamp": "2021-08-13T09:00:00"
+            },
+            {
+                "item_count": 6933,
+                "avg_price": 62,
+                "timestamp": "2021-08-13T10:00:00"
+            },
+            {
+                "item_count": 8691,
+                "avg_price": 65,
+                "timestamp": "2021-08-13T11:00:00"
+            },
+            {
+                "item_count": 13580,
+                "avg_price": 67,
+                "timestamp": "2021-08-13T12:00:00"
+            },
+            {
+                "item_count": 15087,
+                "avg_price": 68,
+                "timestamp": "2021-08-13T13:00:00"
+            },
+            {
+                "item_count": 7980,
+                "avg_price": 63,
+                "timestamp": "2021-08-13T14:00:00"
+            },
+            {
+                "item_count": 17476,
+                "avg_price": 69,
+                "timestamp": "2021-08-15T03:00:00"
+            },
+            {
+                "item_count": 20419,
+                "avg_price": 74,
+                "timestamp": "2021-08-15T04:00:00"
+            },
+            {
+                "item_count": 5261,
+                "avg_price": 68,
+                "timestamp": "2021-08-15T05:00:00"
+            },
+            {
+                "item_count": 10014,
+                "avg_price": 64,
+                "timestamp": "2021-08-15T06:00:00"
+            },
+            {
+                "item_count": 15510,
+                "avg_price": 64,
+                "timestamp": "2021-08-15T07:00:00"
+            },
+            {
+                "item_count": 5086,
+                "avg_price": 61,
+                "timestamp": "2021-08-15T08:00:00"
+            },
+            {
+                "item_count": 100413,
+                "avg_price": 81,
+                "timestamp": "2021-08-15T09:00:00"
+            },
+            {
+                "item_count": 7115,
+                "avg_price": 87,
+                "timestamp": "2021-08-15T11:00:00"
+            },
+            {
+                "item_count": 2721,
+                "avg_price": 63,
+                "timestamp": "2021-08-15T12:00:00"
+            },
+            {
+                "item_count": 3339,
+                "avg_price": 61,
+                "timestamp": "2021-08-15T13:00:00"
+            },
+            {
+                "item_count": 22379,
+                "avg_price": 89,
+                "timestamp": "2021-08-15T14:00:00"
+            },
+            {
+                "item_count": 3466,
+                "avg_price": 63,
+                "timestamp": "2021-08-15T15:00:00"
+            },
+            {
+                "item_count": 6981,
+                "avg_price": 65,
+                "timestamp": "2021-08-15T16:00:00"
+            },
+            {
+                "item_count": 26740,
+                "avg_price": 73,
+                "timestamp": "2021-08-15T17:00:00"
+            },
+            {
+                "item_count": 27305,
+                "avg_price": 71,
+                "timestamp": "2021-08-15T18:00:00"
+            },
+            {
+                "item_count": 4627,
+                "avg_price": 65,
+                "timestamp": "2021-08-15T19:00:00"
+            },
+            {
+                "item_count": 8758,
+                "avg_price": 66,
+                "timestamp": "2021-08-15T20:00:00"
+            },
+            {
+                "item_count": 11532,
+                "avg_price": 64,
+                "timestamp": "2021-08-15T21:00:00"
+            },
+            {
+                "item_count": 7604,
+                "avg_price": 64,
+                "timestamp": "2021-08-15T22:00:00"
+            },
+            {
+                "item_count": 7535,
+                "avg_price": 65,
+                "timestamp": "2021-08-15T23:00:00"
+            },
+            {
+                "item_count": 11211,
+                "avg_price": 60,
+                "timestamp": "2021-08-16T00:00:00"
+            }
+        ]
+    }
+]
